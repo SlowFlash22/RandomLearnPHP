@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-//php -S localhost:4000
+        <!-- php -S localhost:4000 <- start the php server where your file is located in cmd -->
         <h1>Basic Calculator</h1>
         <hr>
         <form action="site.php" method="get">
